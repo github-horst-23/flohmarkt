@@ -1,0 +1,12 @@
+{
+  "name": "Dorfflohmarkt Dudenhofen",
+  "short_name": "Flohmarkt",
+  "description": "Stände und Verpflegung beim Dorfflohmarkt Dudenhofen am 26. September 2026.",
+  "lang": "de-DE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#4F7DB1",
+  "icons": [{"src":"marker.png","sizes":"any","type":"image/png","purpose":"any maskable"}]
+}
