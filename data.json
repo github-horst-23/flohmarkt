@@ -17,13 +17,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -41,9 +41,9 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -61,10 +61,8 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -82,13 +80,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Garten & Werkzeug",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Antiquitäten / Sammlerobjekte",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -106,9 +103,8 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Sonstiges"
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -126,10 +122,9 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Haushalt & Deko",
-        "Sammlerstücke",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -149,13 +144,19 @@
         "Getränke und Essen"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, etc. (Teens 12-18 Jahre)",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -174,11 +175,11 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -196,12 +197,11 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -219,11 +219,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -241,13 +242,14 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -265,13 +267,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -289,11 +290,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -311,12 +311,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, etc. (Teens 12-18 Jahre)",
+        "Fahrräder, Roller, etc. (Erwachsene)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -334,10 +335,9 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Garten & Werkzeug",
-        "Sonstiges"
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Haushaltswaren",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -355,12 +355,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Garten & Werkzeug",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -378,8 +378,7 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Haushalt & Deko",
-        "Sonstiges"
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -397,13 +396,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -421,8 +420,7 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Haushalt & Deko",
-        "Sonstiges"
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -440,11 +438,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Schmuck & Accessoires",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -462,12 +461,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Garten & Werkzeug",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": null
@@ -481,13 +480,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Sammlerstücke",
-        "Garten & Werkzeug",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -505,13 +503,14 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -529,11 +528,9 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Spiele / Bücher (Erwachsene)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -551,12 +548,14 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -574,9 +573,8 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Haushalt & Deko",
-        "Garten & Werkzeug",
-        "Sonstiges"
+        "Haushaltswaren",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -594,14 +592,19 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren",
+        "Möbel",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -621,12 +624,10 @@
         "Kaltgetränke (Alkoholfrei)"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -647,13 +648,16 @@
         "Limonade"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Haushaltswaren",
+        "Möbel",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -674,13 +678,15 @@
         "Wenn es warm ist darf mein Sohn auf spendenbasis getränke ausschenken"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -699,13 +705,16 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, etc. (Teens 12-18 Jahre)",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -725,11 +734,11 @@
         "gebackenes und getränk"
       ],
       "categories": [
-        "Kleidung",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sonstiges",
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -748,10 +757,8 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spiele / Bücher (Erwachsene)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -769,12 +776,11 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -794,10 +800,10 @@
         "Kuchen"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -816,12 +822,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -841,11 +847,12 @@
         "Kuchen"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -864,11 +871,11 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -886,10 +893,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -907,10 +914,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -928,12 +935,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -951,13 +958,16 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -989,11 +999,9 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spiele / Bücher (Erwachsene)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1011,13 +1019,18 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Haushaltswaren",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1035,10 +1048,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1056,9 +1069,7 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spiele / Bücher (Erwachsene)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1078,14 +1089,15 @@
         "Bockwürstchen (warm) mit Brötchen"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -1104,13 +1116,14 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1128,8 +1141,8 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Sonstiges"
+        "Kleidung (Herren)",
+        "Kleidung (Teens 12-18 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1149,13 +1162,12 @@
         "Muffins"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Herren)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren",
+        "Möbel",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -1174,10 +1186,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Haushalt & Deko",
-        "Sammlerstücke",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1197,13 +1209,18 @@
         "Kaffee und evtl. Waffeln"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Möbel",
+        "Antiquitäten / Sammlerobjekte",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -1224,11 +1241,10 @@
         "Wasser, Apfelschorle, Muffins"
       ],
       "categories": [
-        "Kleidung",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Sonstiges",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -1247,12 +1263,8 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1270,14 +1282,20 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Schmuck & Accessoires",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Haushaltswaren",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1295,11 +1313,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1317,12 +1336,9 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Schmuck & Accessoires",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1340,11 +1356,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1362,12 +1379,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1385,13 +1403,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1409,11 +1427,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1433,13 +1450,18 @@
         "Waffeln und Muffins, Softgetränke"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Garten & Werkzeug",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Gartenbedarf",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -1458,11 +1480,14 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, etc. (Teens 12-18 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1480,11 +1505,9 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1504,13 +1527,12 @@
         "Waffeln Getränke und Slush Eis"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren",
+        "Möbel",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -1529,13 +1551,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Schmuck & Accessoires",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1553,15 +1575,19 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Garten & Werkzeug",
-        "Schmuck & Accessoires",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, etc. (Teens 12-18 Jahre)",
+        "Haushaltswaren",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1579,14 +1605,20 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Garten & Werkzeug",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren",
+        "Möbel",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1604,12 +1636,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1629,13 +1659,20 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges",
-        "Fahrräder & Mobilität",
-        "Medien & Elektronik"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, etc. (Teens 12-18 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1653,12 +1690,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, etc. (Teens 12-18 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1676,12 +1713,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Spiele / Bücher (Erwachsene)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1699,12 +1734,11 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1723,13 +1757,16 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges",
-        "Fahrräder & Mobilität"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1747,15 +1784,20 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Garten & Werkzeug",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren",
+        "Möbel",
+        "Antiquitäten / Sammlerobjekte",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1773,13 +1815,16 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1797,13 +1842,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Garten & Werkzeug",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1821,12 +1866,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Garten & Werkzeug",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Haushaltswaren",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1846,12 +1892,10 @@
         "Saftschorle und Brezeln"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Sonstiges",
+        "Kleidung (Damen)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -1872,13 +1916,15 @@
         "Getränke,  Kaffee, Kuchen"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren",
+        "Möbel",
+        "Antiquitäten / Sammlerobjekte",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -1897,12 +1943,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1920,12 +1967,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1943,12 +1991,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Haushaltswaren",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1966,10 +2014,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Sonstiges"
+        "Kleidung (Herren)",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -1987,14 +2035,15 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": null
@@ -2008,10 +2057,11 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Spielsachen & Bücher",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2029,11 +2079,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2051,11 +2102,12 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Haushaltswaren",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2073,15 +2125,22 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sammlerstücke",
-        "Garten & Werkzeug",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)",
+        "Haushaltswaren",
+        "Möbel",
+        "Antiquitäten / Sammlerobjekte",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2101,12 +2160,13 @@
         "Muffins, Kaffee, Wasser,  Apfelschorle"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Damen)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Haushaltswaren",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -2125,11 +2185,11 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2147,10 +2207,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2168,12 +2228,15 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2191,12 +2254,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2214,9 +2275,8 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Haushalt & Deko",
-        "Sammlerstücke",
-        "Sonstiges"
+        "Haushaltswaren",
+        "Antiquitäten / Sammlerobjekte"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2234,10 +2294,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2255,13 +2315,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, etc. (Erwachsene)",
+        "Haushaltswaren",
+        "Möbel"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2279,11 +2339,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2303,13 +2362,13 @@
         "Getränke, gebäck"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Garten & Werkzeug",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Damen)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Elektronik Kleingeräte",
+        "Elektronik Großgeräte",
+        "Haushaltswaren",
+        "Gartenbedarf",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -2328,12 +2387,13 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Elektronik Kleingeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2351,14 +2411,14 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Garten & Werkzeug",
-        "Schmuck & Accessoires",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Kleingeräte",
+        "Haushaltswaren",
+        "Möbel",
+        "Gartenbedarf"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2378,12 +2438,14 @@
         "Kaffee"
       ],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Bücher & Basteln",
-        "Sonstiges",
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren",
         "Verpflegung"
       ],
       "incomplete": false,
@@ -2402,9 +2464,10 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Fahrräder & Mobilität",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2422,11 +2485,14 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Kleidung (Kinder 6-11 Jahre)",
+        "Kleidung (Teens 12-18 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Fahrräder, Roller, etc. (Kinder 6-11 Jahre)"
       ],
       "incomplete": false,
       "coordinates": [
@@ -2444,13 +2510,17 @@
       ],
       "foodOffers": [],
       "categories": [
-        "Kleidung",
-        "Spielsachen & Bücher",
-        "Fahrräder & Mobilität",
-        "Haushalt & Deko",
-        "Medien & Elektronik",
-        "Bücher & Basteln",
-        "Sonstiges"
+        "Kleidung (Damen)",
+        "Kleidung (Herren)",
+        "Kleidung (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 0-5 Jahre)",
+        "Spielsachen / Bücher (Kinder 6-11 Jahre)",
+        "Spielsachen / Bücher (Teens 12-18 Jahre)",
+        "Spiele / Bücher (Erwachsene)",
+        "Musik / Filme / Medien (CD, DVD, Schallplatten,...)",
+        "Elektronik Großgeräte",
+        "Fahrräder, Roller, Dreiräder, etc. (Kinder 0-5 Jahre)",
+        "Haushaltswaren"
       ],
       "incomplete": false,
       "coordinates": [
