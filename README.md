@@ -6,7 +6,7 @@ Eine installierbare Web-App für den Dorfflohmarkt am 26. September 2026, 10–1
 
 - 106 zusammengeführte Standorte aus 109 Stand-Einträgen und 18 Verpflegungsangaben
 - Suche, Angebotskategorien, Typfilter, Favoriten und Routenplanung
-- das bereitgestellte Smiley-Icon als Kartenmarker
+- das bereitgestellte Smiley-Icon als Kartenmarker sowie das OVD-Wappen in der Kopfzeile
 - PWA-Manifest und Service Worker für die Installation im Browser
 - getrennte Besucher- und Adminbereiche; Adminformular zum Anlegen von Ständen und Export der aktualisierten Datendatei
 
