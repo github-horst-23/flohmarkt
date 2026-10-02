@@ -1,34 +1,37 @@
-# Dorfflohmarkt Dudenhofen
+# CarstenFit
 
-Eine installierbare Web-App für den Dorfflohmarkt am 26. September 2026, 10–16 Uhr.
+Eine kleine, installierbare Trainings-PWA für Carstens persönlichen Gebrauch. Trainingsplan und Verlauf bleiben im Browser auf dem jeweiligen Gerät.
 
-## Enthalten
+## Starten
 
-- 106 zusammengeführte Standorte aus 109 Stand-Einträgen und 18 Verpflegungsangaben
-- Suche, Angebotskategorien, Typfilter, Favoriten und Routenplanung
-- das bereitgestellte Smiley-Icon als Kartenmarker sowie das OVD-Wappen in der Kopfzeile
-- PWA-Manifest und Service Worker für die Installation im Browser
-- getrennte Besucher- und Adminbereiche; Adminformular zum Anlegen von Ständen und Export der aktualisierten Datendatei
+Die Dateien über einen lokalen Webserver oder einen statischen Webhost mit HTTPS bereitstellen. Für Installation und Offline-Nutzung braucht der Browser einen sicheren Kontext (localhost zählt dazu). Danach die Seite im Browser öffnen und „Zum Home-Bildschirm“ bzw. „App installieren“ auswählen.
 
-## Bereitstellung
+Es gibt keine Build- oder Paketinstallation. Der Service Worker legt die App-Dateien für die Offline-Nutzung im Cache ab.
 
-Die Dateien in diesem Ordner müssen unter einer HTTPS-Adresse bereitgestellt werden, damit Browser die Installation der PWA anbieten. Zum Anzeigen der Basiskarte wird eine Internetverbindung benötigt. Favoriten und bereits gefundene Koordinaten werden lokal im Browser gespeichert. Für Safari beim direkten Öffnen über `file://` lädt die App die Daten aus `data.js`, da lokale JSON-Dateien dort nicht zuverlässig per `fetch` abrufbar sind.
+## Funktionen
 
-`data.json` enthält ein Feld `coordinates` pro Standort. Sobald freigegebene Koordinaten darin stehen, erscheinen die Marker direkt beim Laden. Bis dahin zeigt die App die Standorte in der Liste. Das Kartenmaterial stammt von OpenStreetMap; die App blendet den Kartenhinweis ein.
+- Wochentrainingsplan mit bearbeitbaren Einheiten und Übungen
+- Übungskatalog mit den zuletzt verwendeten Satzwerten
+- Protokoll pro Arbeitssatz: Gewicht und Wiederholungen, plus Notizen
+- Trainingshistorie mit Einheiten, Arbeitssätzen und Volumen
+- Auswertung von Kraftverlauf und Trainingshäufigkeit
+- Spotify-Player für einen gespeicherten Playlist-, Album- oder Titel-Link
+- JSON-Backup exportieren und wieder importieren
 
-## Stände verwalten
+Die App speichert weiterhin eine lokale Offline-Kopie. Optional kann sie den Datensatz mit Supabase synchronisieren, damit CarstenFit in mehreren Browsern denselben Trainingsstand lädt. Spotify-Inhalte laufen im offiziellen Spotify-Embed-Player; dessen Wiedergabe braucht eine Internetverbindung.
 
-Der Bereich „Adminbereich“ enthält das Formular zum Hinzufügen von Ständen. Neue Einträge werden zunächst nur im lokalen Browser gespeichert. Mit „Daten exportieren“ werden aktualisierte `data.json` und `data.js` heruntergeladen. `data.json` ersetzt die Serverdatei für alle Besucher; bei direktem Öffnen per `file://` muss außerdem `data.js` ersetzt werden. Der Adminbereich ist durch eine Anmeldung mit PBKDF2-geprüftem Passwort-Hash geschützt. Da die App statisch im Browser läuft, ist das nur eine Oberflächensperre: Der Code und Hash können eingesehen und umgangen werden. Für echten Zugriffsschutz ist eine serverseitige Anmeldung mit geschützter Datenspeicherung erforderlich. Änderungen werden nicht automatisch mit anderen Geräten synchronisiert. Die Anmeldung endet beim Neuladen der Seite oder beim Abmelden.
+## Cloud-Synchronisierung mit Supabase einrichten
 
-## Koordinaten ergänzen
+1. Erstelle ein Supabase-Projekt und öffne dort **SQL Editor**. Führe den Inhalt von [`supabase-setup.sql`](supabase-setup.sql) einmal aus. Damit werden Tabelle, Grants und Row Level Security erstellt. Jede Datenbankzeile ist auf den angemeldeten Benutzer begrenzt.
+2. Stelle die App über HTTPS bereit, zum Beispiel über GitHub Pages. In Supabase unter **Authentication → URL Configuration** trägst du die URL deiner App als Site URL ein. Aktiviere E-Mail/Passwort-Anmeldung.
+3. Kopiere die **Project URL** und den **Publishable Key** aus dem Supabase-Dialog **Connect**.
+4. Öffne CarstenFit und tippe oben auf das Wolken-Symbol. Trage URL und Publishable Key ein und erstelle dein persönliches Konto. Falls E-Mail-Bestätigung aktiv ist, bestätige zuerst die E-Mail und melde dich dann an.
+5. Beim ersten Abgleich ohne vorhandenen Cloud-Datensatz lädt CarstenFit deine lokalen Daten hoch. Wenn bereits Cloud-Daten existieren, kannst du auswählen, ob du die Cloud-Version laden oder deine lokalen Daten hochladen möchtest.
 
-Für die einmalige Geokodierung in einer Umgebung mit Internetzugang: ZIP entpacken, im entpackten Ordner ein Terminal öffnen und `python3 geocode_maps_co.py` starten. Das Skript fragt den API-Schlüssel verdeckt ab, übermittelt nur die 106 Adressen, ergänzt Koordinaten und aktualisiert das ZIP. Es speichert den Schlüssel nicht. Die Trefferangabe `geocodeMatch` bleibt in `data.json`, damit die Zuordnung kontrolliert werden kann.
+Änderungen werden lokal gespeichert und bei aktiver Verbindung automatisch in die Cloud geschrieben. Versionsprüfungen verhindern, dass ein älterer Browserstand unbemerkt neuere Cloud-Daten überschreibt. Bei einem Konflikt fragt CarstenFit nach der zu verwendenden Version. Bei Offline-Änderungen erfolgt der Abgleich nach Wiederherstellung der Verbindung oder über **Jetzt synchronisieren**.
 
-## Quelldaten
+Im Browser eingebaut werden nur Project URL und Publishable Key. Verwende niemals den `service_role`- oder Secret-Key in der PWA. Die RLS-Regeln in der SQL-Datei sind erforderlich, damit Benutzer ausschließlich auf ihre eigene Zeile zugreifen.
 
-`data.json` enthält zusammengeführte Standorte und getrennte Felder für Flohmarktangebote und Verpflegung. Doppelte Adressen wurden zusammengeführt; ihre Einträge bleiben als einzelne Angebotsangaben erhalten. Ein Eintrag ohne Angebot ist mit `incomplete: true` markiert.
+## Daten lokal sichern und übertragen
 
-
-Die Kategorien für Filter und Adminformular entsprechen der vorgegebenen Liste aus dem Screenshot. Im Adminbereich lassen sich neue Stände als CSV mit den Spalten `Adresse;Kategorien;Angebot` importieren; mehrere Kategorien in einer Zelle werden durch `|` getrennt. Über „Stände auf der Karte löschen“ können ein oder mehrere Standmarker ausgewählt und entfernt werden. Gemischte Standorte behalten beim Löschen des Standes ihre Verpflegungsstation. Fehlende Koordinaten erscheinen nur im Adminbereich und können dort ergänzt werden. Lokale Änderungen müssen anschließend über „Daten exportieren“ veröffentlicht werden.
-
-Besucher können im eigenen öffentlichen Feedbackbereich ihre Rolle als Besucher oder Standbetreiber auswählen und eine freie Rückmeldung absenden. Die App sammelt die Einträge lokal im Browser und lädt bei jeder Einsendung die separate `feedback.txt` mit dem dort gespeicherten Feedback herunter. Die Dateien verschiedener Geräte werden nicht automatisch zusammengeführt; dafür ist ein Backend nötig. Für die Entfernungssortierung wird der Standort erst nach einer ausdrücklichen Browserfreigabe ermittelt, auf der Karte markiert und nur im Arbeitsspeicher dieser Sitzung gehalten.
+Über **Export** in der Kopfzeile kannst du eine JSON-Sicherung aller CarstenFit-Daten herunterladen und auf diesem oder einem anderen Gerät importieren. Das bleibt auch mit aktivierter Cloud-Synchronisierung als manuelles Backup verfügbar.
